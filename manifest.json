@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Summarizer",
+    "version": "1.0.0",
+    "description": "Summarize the content of the current tab with AI.",
+    "icons":{
+        "1": "images/icon.png"
+    },
+    "permissions": ["activeTab", "scripting"]
+    
+  }
+  
